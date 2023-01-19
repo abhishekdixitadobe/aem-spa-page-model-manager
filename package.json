@@ -13,7 +13,7 @@
   "repository": "github:adobe/aem-spa-page-model-manager",
   "homepage": "https://docs.adobe.com/content/help/en/experience-manager-65/developing/headless/spas/spa-reference-materials.html",
   "bugs": {
-    "url": "https://github.com/adobe/aem-spa-page-model-manager/issues"
+    "url": "https://github.com/abhishekdixitadobe/aem-spa-page-model-manager"
   },
   "engines": {
     "npm": ">=6.14.15",
